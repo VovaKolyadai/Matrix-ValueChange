@@ -6,7 +6,8 @@
         {
             int[,] matrix = new int[5,5];
 
-            MatrixFill(matrix, 5);
+
+            MatrixFill(matrix, 8);
 
             PrintAllMatrix(matrix);
 
@@ -15,6 +16,24 @@
 
             RandomChangeFifth(matrix);
 
+            PrintAllMatrix(matrix);
+
+
+
+            Console.WriteLine();
+            Console.WriteLine();
+
+
+            
+
+            MatrixFill(matrix, 8);
+            PrintAllMatrix(matrix);
+
+            Console.WriteLine();
+            SaftyParse("what do we change number to? ", out int numbIntoChange);
+            Console.WriteLine();
+
+            RandomChangeA(matrix, numbIntoChange);
             PrintAllMatrix(matrix);
 
 
@@ -39,6 +58,26 @@
             Random random = new Random();
             matrix[4,random.Next(0, matrix.GetLength(1))] = 1949;
         }
+        static void RandomChangeA(int[,] matrix, int a)
+        {
+            Random random = new Random();
+            matrix[random.Next(0, matrix.GetLength(0)), random.Next(0, matrix.GetLength(1))] = a;
+        }
+
+        static void SaftyParse(string s, out int numb)
+        {
+            bool isSafe = false;
+
+            do
+            {
+                Console.Write(s);
+
+                isSafe = int.TryParse(Console.ReadLine(), out numb);
+
+            } while (!isSafe);
+            
+        }
+
 
         static void PrintAllMatrix(int[,] matrix)
         {

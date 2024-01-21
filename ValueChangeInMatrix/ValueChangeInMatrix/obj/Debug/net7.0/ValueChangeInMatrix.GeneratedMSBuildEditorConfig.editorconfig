@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ValueChangeInMatrix
-build_property.ProjectDir = D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\
+build_property.ProjectDir = D:\dev\Matrix-ValueChange\ValueChangeInMatrix\ValueChangeInMatrix\
