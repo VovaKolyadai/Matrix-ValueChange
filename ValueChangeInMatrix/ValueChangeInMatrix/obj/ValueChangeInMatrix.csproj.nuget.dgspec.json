@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\Num-Reverse\\ValueChangeInMatrix\\ValueChangeInMatrix\\ValueChangeInMatrix.csproj": {}
+    "D:\\dev\\Matrix-ValueChange\\ValueChangeInMatrix\\ValueChangeInMatrix\\ValueChangeInMatrix.csproj": {}
   },
   "projects": {
-    "D:\\dev\\Num-Reverse\\ValueChangeInMatrix\\ValueChangeInMatrix\\ValueChangeInMatrix.csproj": {
+    "D:\\dev\\Matrix-ValueChange\\ValueChangeInMatrix\\ValueChangeInMatrix\\ValueChangeInMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\Num-Reverse\\ValueChangeInMatrix\\ValueChangeInMatrix\\ValueChangeInMatrix.csproj",
+        "projectUniqueName": "D:\\dev\\Matrix-ValueChange\\ValueChangeInMatrix\\ValueChangeInMatrix\\ValueChangeInMatrix.csproj",
         "projectName": "ValueChangeInMatrix",
-        "projectPath": "D:\\dev\\Num-Reverse\\ValueChangeInMatrix\\ValueChangeInMatrix\\ValueChangeInMatrix.csproj",
+        "projectPath": "D:\\dev\\Matrix-ValueChange\\ValueChangeInMatrix\\ValueChangeInMatrix\\ValueChangeInMatrix.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\Num-Reverse\\ValueChangeInMatrix\\ValueChangeInMatrix\\obj\\",
+        "outputPath": "D:\\dev\\Matrix-ValueChange\\ValueChangeInMatrix\\ValueChangeInMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
