@@ -1,0 +1,15 @@
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\obj\Debug\net7.0\ValueChangeInMatrix.csproj.AssemblyReference.cache
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\obj\Debug\net7.0\ValueChangeInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\obj\Debug\net7.0\ValueChangeInMatrix.AssemblyInfoInputs.cache
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\obj\Debug\net7.0\ValueChangeInMatrix.AssemblyInfo.cs
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\obj\Debug\net7.0\ValueChangeInMatrix.csproj.CoreCompileInputs.cache
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\bin\Debug\net7.0\ValueChangeInMatrix.exe
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\bin\Debug\net7.0\ValueChangeInMatrix.deps.json
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\bin\Debug\net7.0\ValueChangeInMatrix.runtimeconfig.json
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\bin\Debug\net7.0\ValueChangeInMatrix.dll
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\bin\Debug\net7.0\ValueChangeInMatrix.pdb
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\obj\Debug\net7.0\ValueChangeInMatrix.dll
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\obj\Debug\net7.0\refint\ValueChangeInMatrix.dll
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\obj\Debug\net7.0\ValueChangeInMatrix.pdb
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\obj\Debug\net7.0\ValueChangeInMatrix.genruntimeconfig.cache
+D:\dev\Num-Reverse\ValueChangeInMatrix\ValueChangeInMatrix\obj\Debug\net7.0\ref\ValueChangeInMatrix.dll
